@@ -69,5 +69,7 @@ ax.plot(y_test, label='True')
 ax.plot(pred, label='Prediction')
 ax.legend()
 plt.show()
-
+Please correct the wrong part. plz... 
+                  
+                 I use tensorflow IED program pycharm but this code error.. 
 
